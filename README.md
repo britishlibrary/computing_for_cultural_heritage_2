@@ -4,7 +4,7 @@ This repo contains the Binder link for the 19/06/25 Hack & Yack at the British L
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbritishlibrary%2Fcomputing_for_cultural_heritage_2.0&urlpath=lab%2Ftree%2Fcomputing_for_cultural_heritage_2.0%2Fnotebooks%2Fpre_work.ipynb&branch=main)
 
-This is the environment repo for the Binder. Data and notebooks are held in the [content repo](https://github.com/harrylloyd-bl/incu-binder-content-repo/tree/hny-0924), which is what is displayed when the binder link opens. This set-up [improves load times](https://mybinder.readthedocs.io/en/latest/howto/external_binder_setup.html) while developing the Binder.
+This is the environment repo for the Binder. Data and notebooks are held in the [content repo](https://github.com/harrylloyd-bl/computing-for-cultural-heritage), which is what is displayed when the binder link opens. This set-up [improves load times](https://mybinder.readthedocs.io/en/latest/howto/external_binder_setup.html) while developing the Binder.
 
 ## Project information
 
