@@ -1,18 +1,14 @@
-# Catalogue Entry Detection
+# Computing for Cultural Heritage 2.0
 
-This branch of our Incunabula Catalogue Entry Detection repo contains the Binder link for the 19/09/24 Hack & Yack at the British Library. Presenters for the workshop are [Rossitza Atanassova](https://www.linkedin.com/in/rossitza-atanassova-bb026217/) and [Harry Lloyd](https://www.linkedin.com/in/harry-lloyd-9140b970/). The Binder links to data and notebooks for interactive use in the workshop, click the link below to begin!
+This repo contains the Binder link for the 19/06/25 Hack & Yack at the British Library. The presenter for the workshop is [Harry Lloyd](https://www.linkedin.com/in/harry-lloyd-9140b970/). The Binder links to data and notebooks for interactive use in the workshop, click the link below to begin!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/britishlibrary/Incunabula-Catalogue-Entry-Detection/hny-0924?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fharrylloyd-bl%252Fincu-binder-content-repo%26urlpath%3Dlab%252Ftree%252Fincu-binder-content-repo%252Fnotebooks%255Ccatalogues_as_data_for_computational_analysis_hack_and_yack_09-24.ipynb%26branch%3Dhny-0924)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbritishlibrary%2Fcomputing_for_cultural_heritage_2.0&urlpath=lab%2Ftree%2Fcomputing_for_cultural_heritage_2.0%2Fnotebooks%2Fpre_work.ipynb&branch=main)
 
-This is the environment repo for the Binder. Data and notebooks are held in the [content repo](https://github.com/harrylloyd-bl/incu-binder-content-repo/tree/hny-0924), which is what is displayed when the binder link opens. This set-up improves load times while developing the Binder.
+This is the environment repo for the Binder. Data and notebooks are held in the [content repo](https://github.com/harrylloyd-bl/incu-binder-content-repo/tree/hny-0924), which is what is displayed when the binder link opens. This set-up [improves load times](https://mybinder.readthedocs.io/en/latest/howto/external_binder_setup.html) while developing the Binder.
 
 ## Project information
 
-This project investigates and implements different methods for detecting catalogue entries within printed catalogues. While printed catalogues are easy enough to digitise and convert into machine readable data, dividing that data by catalogue entry requires converting visual signifiers of divisions between entries - gaps in the printed page, large or upper-case headers, catalogue references - into machine-readable information.
-
-The data is XML-formatted data derived from the 13-volume *Catalogue of books printed in the 15th century now at the British Museum*. The project was undertaken in support of [Rossitza Atanassova](https://www.linkedin.com/in/rossitza-atanassova-bb026217/)'s [AHRC-RLUK Professional Practice Fellowship](https://blogs.bl.uk/digital-scholarship/2022/11/my-ahrc-rluk-professional-practice-fellowship-phase-one.html).
-
-This project is the British Library maintained version of code produced in 2022/2023 by [Isaac Dunford](https://github.com/Mr-Esweg) as part of a [Digital Humanities](http://digitalhumanities.soton.ac.uk/) Internship funded by the School of Humanities at the University of Southampton. Isaac's original code is at https://github.com/Southampton-Digital-Humanities/2023_Catalogue-Entry-Detection.
+As part of the Digital Scholarship Training Programme (DSTP), we plan to address the organisational need for an introduction to programming course in a cultural heritage context. This course will follow on from the successful 2019-2020 trial of the Computing for Cultural Heritage PgCert, building on existing materials and using in-house expertise for development and delivery. The offer will teach a cohort of staff the fundamentals of programming, aiming to increase institutional capacity to meet business needs, support computationally driven research projects and digital initiatives, and expand the community of practice into new areas of the Library. 
 
 ## License
 
