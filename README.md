@@ -1,8 +1,10 @@
 # Computing for Cultural Heritage 2.0
 
-This repo contains the Binder link for the 19/06/25 Hack & Yack at the British Library. The presenter for the workshop is [Harry Lloyd](https://www.linkedin.com/in/harry-lloyd-9140b970/). The Binder links to data and notebooks for interactive use in the workshop, click the link below to begin!
+This repo contains the Binder link for the pre-work and main notebook for the 19/06/25 Hack & Yack at the British Library. The presenter for the workshop is [Harry Lloyd](https://www.linkedin.com/in/harry-lloyd-9140b970/). 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbritishlibrary%2Fcomputing_for_cultural_heritage_2.0&urlpath=lab%2Ftree%2Fcomputing_for_cultural_heritage_2.0%2Fnotebooks%2Fpre_work.ipynb&branch=main)
+Click the link below to access the pre-work for the workshop.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/britishlibrary/computing_for_cultural_heritage_2/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fharrylloyd-bl%252Fcomputing-for-cultural-heritage%26urlpath%3Dlab%252Ftree%252Fcomputing-for-cultural-heritage%252Fnotebooks%255Cpre_work.ipynb%26branch%3Dmain)
 
 This is the environment repo for the Binder. Data and notebooks are held in the [content repo](https://github.com/harrylloyd-bl/computing-for-cultural-heritage), which is what is displayed when the binder link opens. This set-up [improves load times](https://mybinder.readthedocs.io/en/latest/howto/external_binder_setup.html) while developing the Binder.
 
