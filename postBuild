@@ -1,1 +1,1 @@
-jupyter server extension enable --py nbgitpuller --sys-prefix 
+py -m pip install -e cfch
