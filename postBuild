@@ -1,1 +1,1 @@
-py -m pip install -e cfch
+python -m pip install -e cfch
