@@ -1,2 +1,3 @@
 ls
-python -m pip install -e .cfch --no-deps
+jupyter server extension enable --py nbgitpuller --sys-prefix 
+python -m pip install -e cfch --no-deps
