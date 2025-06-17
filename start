@@ -1,1 +1,1 @@
-python -m pip install -e cfch --no-deps
+python -m pip install -e . --no-deps
